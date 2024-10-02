@@ -32,6 +32,13 @@ I am a Python developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 
 ---
 
+## Закрепленные Репозитории
+[ToDo application](https://github.com/AntonMatarenka/ToDo-application) — приложение для управления задачами.
+- Поддерживает функциональность по регистрации, аутентификации пользователей и управлению их задачами.
+- Каждый пользователь может создавать, обновлять и удалять только свои задачи.
+
+---
+
 ### :hammer_and_wrench: Language and Tools :
 
 ![Python](https://img.shields.io/badge/python-%233670A1.svg?style=for-the-badge&logo=python&logoColor=white)
